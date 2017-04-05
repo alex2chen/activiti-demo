@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/bpmn/exclusiveGateWay.bpmn" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/bpmn/helloworld.bpmn" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/bpmn/parallelGateWay.bpmn" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/bpmn/processVariables.bpmn" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/bpmn/receiveTask.bpmn" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/bpmn/sequenceFlow.bpmn" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/bpmn/start.bpmn" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/bpmn/task.bpmn" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/bpmn/task2.bpmn" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
